@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Day18/lib/gson-2.6.2.jar",
+        "g:\\java从入门到起飞\\day18-API（常见API，对象克隆）\\资料\\对象拷贝\\gson-2.6.2.jar",
+        "Day18/gson-2.6.2.jar"
+    ]
+}
