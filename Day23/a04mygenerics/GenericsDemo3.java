@@ -10,6 +10,7 @@ public class GenericsDemo3 {
     public static void main(String[] args) {
         ArrayList<String> list1 = new ArrayList<>();
         ListUtil.addAll(list1, "aaa", "bbb", "ccc");
+        ListUtil.show();
         System.out.println(list1);
 
         ArrayList<Integer> list2 = new ArrayList<>();

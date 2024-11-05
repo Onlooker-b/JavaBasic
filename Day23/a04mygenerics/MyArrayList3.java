@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 
+// 泛型类
 public class MyArrayList3<E> implements List<E>{
 
     @Override

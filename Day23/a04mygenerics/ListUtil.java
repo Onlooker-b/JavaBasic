@@ -13,5 +13,8 @@ public class ListUtil {
             list.add(element);
         }
     }
+    public static void show(){
+        System.out.println("哈哈哈哈哈哈哈里斯");
+    }
 
 }
